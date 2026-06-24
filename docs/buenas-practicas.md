@@ -33,4 +33,9 @@ de forma ordenada dentro del proyecto.
 
 - Limpia los commits si tienen mensajes poco descriptivos.
 - Asegúrate de que tu rama esté actualizada respecto a develop.
-- Revisa que todos los archivos estén en el estado correcto antes del PR.
+
+## Buenas prácticas para mensajes de commit
+
+Los mensajes de commit deben ser breves, claros y descriptivos. Deben
+permitir que el equipo comprenda qué se hizo y, cuando sea necesario,
+por qué se realizó el cambio.

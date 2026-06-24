@@ -51,3 +51,11 @@ que va a revisar tu código. Espera su aprobación antes de hacer merge.
 3. Lee las dos versiones y decide cuál queda o cómo se combinan
 4. Borra las marcas y deja el archivo limpio
 5. Haz git add y continúa con el proceso
+
+## Nota adicional
+
+Es importante mantener el repositorio organizado en todo momento.
+
+Recuerda siempre hacer pull antes de empezar a trabajar.
+
+Consulta al líder técnico si tienes dudas sobre el flujo de trabajo.

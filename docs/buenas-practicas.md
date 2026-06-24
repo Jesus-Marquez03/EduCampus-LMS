@@ -50,3 +50,8 @@ Ejemplos de mensajes adecuados:
 - Agrega documentación inicial del módulo de usuarios.
 - Corrige descripción del flujo de evaluaciones.
 - Actualiza guía de instalación local.
+
+## Buenas prácticas para revisar Pull Requests
+
+Lee el código línea por línea, verifica el propósito del cambio
+y deja comentarios específicos y constructivos.

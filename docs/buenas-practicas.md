@@ -34,3 +34,8 @@ de forma ordenada dentro del proyecto.
 - Limpia los commits si tienen mensajes poco descriptivos.
 - Asegúrate de que tu rama esté actualizada respecto a develop.
 - Revisa que todos los archivos estén en el estado correcto antes del PR.
+
+## Buenas prácticas para nombrar ramas
+
+Usa prefijos como feature/, fix/, docs/ seguidos de un nombre
+descriptivo en minúsculas y con guiones.
